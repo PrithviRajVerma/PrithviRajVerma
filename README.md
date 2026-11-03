@@ -19,7 +19,6 @@ I'm **Prithvi Raj**, a Backend Developer. I build scalable backend systems, clea
 - ⚙️ I enjoy designing REST APIs, working with databases, and building systems that scale
 - ⚡ Passionate about clean architecture, performance, and maintainable code
 - 🧠 Always learning, currently exploring backend architecture and system design
-- 🤖 I use **Claude Code** alongside my usual tools to build and ship faster
 
 ## 🧩 What I Build
 
@@ -78,7 +77,7 @@ I'm **Prithvi Raj**, a Backend Developer. I build scalable backend systems, clea
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Tools technologies" />
 </p>
 
-`Git` `GitHub` `IntelliJ IDEA` `VS Code` `Claude Code`
+`Git` `GitHub` `IntelliJ IDEA` `VS Code`
 
 ## 🎯 How I Work
 
