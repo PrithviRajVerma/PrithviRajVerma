@@ -87,7 +87,6 @@ I care about more than getting endpoints to respond. I build with clear structur
 
 - Backend architecture and system design
 - Building scalable, performance-minded services
-- AI-assisted development with Claude Code
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" alt="Footer wave" />
