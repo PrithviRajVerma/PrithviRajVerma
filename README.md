@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38B2AC&height=190&section=header&text=Prithvi%20Raj&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Building%20Reliable%20APIs%20%26%20Scalable%20Systems&descAlignY=58&descSize=18" alt="Prithvi Raj — Backend Developer" />
+  <img
+    src="https://raw.githubusercontent.com/PrithviRajVerma/PrithviRajVerma/main/assets/banner.svg"
+    width="100%"
+    alt="Hi, I'm Prithvi Raj - Backend Developer"
+  />
 </p>
 
 <p align="center">
