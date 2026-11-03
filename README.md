@@ -42,29 +42,18 @@ I enjoy learning new technologies, exploring software architecture, and creating
 
 ---
 
+
 ## `02 // TECH ARSENAL`
 
-**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-171d19?style=for-the-badge&logo=javascript&logoColor=39ff75)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-171d19?style=flat-square&logo=javascript&logoColor=39ff75)
-![TypeScript](https://img.shields.io/badge/TypeScript-171d19?style=flat-square&logo=typescript&logoColor=39ff75)
-![Python](https://img.shields.io/badge/Python-171d19?style=flat-square&logo=python&logoColor=39ff75)
-![Java](https://img.shields.io/badge/Java-171d19?style=flat-square&logo=openjdk&logoColor=39ff75)
+![Node.js](https://img.shields.io/badge/Node.js-171d19?style=for-the-badge&logo=nodedotjs&logoColor=39ff75)
 
-**Backend & Frameworks**
+![Python](https://img.shields.io/badge/Python-171d19?style=for-the-badge&logo=python&logoColor=39ff75)
 
-![Node.js](https://img.shields.io/badge/Node.js-171d19?style=flat-square&logo=nodedotjs&logoColor=39ff75)
-![Express](https://img.shields.io/badge/Express-171d19?style=flat-square&logo=express&logoColor=39ff75)
-![NestJS](https://img.shields.io/badge/NestJS-171d19?style=flat-square&logo=nestjs&logoColor=39ff75)
+![MongoDB](https://img.shields.io/badge/MongoDB-171d19?style=for-the-badge&logo=mongodb&logoColor=39ff75)
 
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171d19?style=flat-square&logo=postgresql&logoColor=39ff75)
-![MongoDB](https://img.shields.io/badge/MongoDB-171d19?style=flat-square&logo=mongodb&logoColor=39ff75)
-![Redis](https://img.shields.io/badge/Redis-171d19?style=flat-square&logo=redis&logoColor=39ff75)
-![Docker](https://img.shields.io/badge/Docker-171d19?style=flat-square&logo=docker&logoColor=39ff75)
-![Git](https://img.shields.io/badge/Git-171d19?style=flat-square&logo=git&logoColor=39ff75)
-![Linux](https://img.shields.io/badge/Linux-171d19?style=flat-square&logo=linux&logoColor=39ff75)
+![Docker](https://img.shields.io/badge/Docker-171d19?style=for-the-badge&logo=docker&logoColor=39ff75)
 
 ---
 
@@ -84,11 +73,16 @@ I enjoy learning new technologies, exploring software architecture, and creating
 
 ## `04 // CONTRIBUTION MATRIX`
 
-<div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/PrithviRajVerma/PrithviRajVerma/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">04 // CONTRIBUTION MATRIX</h2>
 
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/PrithviRajVerma/PrithviRajVerma/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ---
 
